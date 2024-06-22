@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: dulciannormregular
+font link: https://www.fontspring.com/fonts/insigne/dulcian/dulcian-normal-regular
+font author: insigne design
+font author site: http://www.insignedesign.com/
+Slogan Font: KaushanScript-Regular.ttf
+
+icon designer: Larisa Skosyrska
+icon designer link: /Lara.Skosyrska
+        
+{"bg":"#E4F3EB","icon-gradient-0":"#085B20","icon-gradient-1":"#41E296","font":"#0D3721","slogan":"#214b35"}
+      
